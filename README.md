@@ -1,2 +1,2 @@
 # Project1 
-This repo consists C Programs on varrious Sorting Algorithms.
+This repository consists C Programs on various Sorting Algorithms.
